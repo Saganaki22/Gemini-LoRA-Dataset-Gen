@@ -160,6 +160,7 @@ This tool is part of the [Nano Banana Pro](https://drbaph.is-a.dev/Gemini-LoRA-D
 ### Related Tools
 - [Jewelry Studio Pro](https://github.com/Saganaki22/Jewelry-Studio-PRO) - Product photography batch engine
 - [Gemini Img Tagger](https://github.com/Saganaki22/Gemini-Img-tagger) - Image captioning tool
+- [NanoBananaLoraDatasetGenerator](https://github.com/lovisdotio/NanoBananaLoraDatasetGenerator) - similar tool but uses FAL api
 
 ---
 
