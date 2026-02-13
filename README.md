@@ -10,9 +10,12 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Gemini API](https://img.shields.io/badge/Gemini-API-4285F4?style=flat-square&logo=google&logoColor=white)](https://ai.google.dev/)
 
-*A [Nano Banana Pro](https://github.com/Saganaki22) Tool*
+*A [Nano Banana Pro](https://drbaph.is-a.dev/Gemini-LoRA-Dataset-Gen/) Tool*
 
 </div>
+
+![11](https://github.com/user-attachments/assets/70440703-5183-43af-aab1-bc973eec90ce)
+
 
 ---
 
@@ -152,7 +155,7 @@ dataset_2024-01-15.zip
 
 ## 🤝 Part of Nano Banana Pro
 
-This tool is part of the [Nano Banana Pro](https://github.com/Saganaki22) ecosystem - a suite of AI-powered creative tools.
+This tool is part of the [Nano Banana Pro](https://drbaph.is-a.dev/Gemini-LoRA-Dataset-Gen/) ecosystem - a suite of AI-powered creative tools.
 
 ### Related Tools
 - [Jewelry Studio Pro](https://github.com/Saganaki22/Jewelry-Studio-PRO) - Product photography batch engine
@@ -166,16 +169,11 @@ MIT License - Feel free to use, modify, and distribute.
 
 ---
 
-## 🙏 Credits
+## Credits
 
 - Powered by [Google Gemini API](https://ai.google.dev/)
 - UI Components by [shadcn/ui](https://ui.shadcn.com/)
 - Icons by [Lucide](https://lucide.dev/)
 
 ---
-
-<div align="center">
-
-**Made with 🍌 by [Saganaki22](https://github.com/Saganaki22)**
-
-</div>
+>
